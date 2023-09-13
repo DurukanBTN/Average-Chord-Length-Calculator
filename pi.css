@@ -1,0 +1,21 @@
+button {
+    text-align: center;
+    width: 400px;
+    height: 140px;
+    background-color: green;
+    color: black;
+    font-size: 0.95rem;
+    font-weight: bold;
+    margin: 50px;
+}
+
+#exit {
+    background-color: red;
+    font-size: 2.5rem;
+}
+html {
+    background-color: white;
+}
+div {
+    background-color: white;
+}

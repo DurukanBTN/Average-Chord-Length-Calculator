@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+}
+h1 {
+    color: green;
+    text-align: center;
+    font-size: 6rem;
+    line-height: 2;
+    background-color: black;
+}
+body {
+    color: #4CE52A;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: black;
+}
+div {
+    margin: 20px;
+}
